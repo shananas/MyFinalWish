@@ -1,0 +1,28 @@
+title: MyFinalWish
+originalAuthor: Shananas
+game: kh2
+assets:
+- name: obj/B_AL020.mdlx
+  method: copy
+  source:
+  - name: obj/B_AL020.mdlx
+- name: obj/F_AL140.mdlx
+  method: copy
+  source:
+  - name: obj/F_AL140.mdlx
+- name: obj/F_AL150.mdlx
+  method: copy
+  source:
+  - name: obj/F_AL150.mdlx
+- name: obj/F_AL160.mdlx
+  method: copy
+  source:
+  - name: obj/F_AL160.mdlx
+- name: obj/F_AL170.mdlx
+  method: copy
+  source:
+  - name: obj/F_AL170.mdlx
+- name: obj/F_AL650_MATSU.mdlx
+  method: copy
+  source:
+  - name: obj/F_AL650_MATSU.mdlx
